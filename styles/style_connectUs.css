@@ -1,0 +1,59 @@
+body{
+    background-color: cornflowerblue;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    color: crimson;
+    font-family: 'Redressed', cursive;
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.item{
+    padding: 10px;
+}
+
+a{
+    color: gold;
+}
+
+a:hover {
+    color: white;
+    background-color: transparent;
+}
+
+.text{
+    color: rgb(165, 79, 79);
+}
+
+.textBox{
+    border-radius: 10px;
+    background-color:rgb(175, 166, 255);
+    border: none;
+    padding: 7px;
+}
+
+.footer{
+    text-align: center;
+    color: gold;
+}
+
+.btn{
+    border: red 5px solid;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.tbl{
+    display: flex;
+    justify-content: center;
+}
+

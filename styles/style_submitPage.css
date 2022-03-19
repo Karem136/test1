@@ -1,0 +1,43 @@
+body{
+    background-color: cornflowerblue;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    color: crimson;
+    font-family: 'Redressed', cursive;
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.item{
+    padding: 10px;
+}
+
+a{
+    color: gold;
+}
+
+a:hover {
+    color: white;
+    background-color: transparent;
+}
+
+.footer{
+    position: fixed;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+}
+
+.header1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: gold;
+}
